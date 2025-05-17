@@ -10,9 +10,9 @@ A full-stack web application built using the MERN (MongoDB, Express.js, React, N
 To run the frontend app locally:
 
 ```
-git clone https://github.com/your-username/event-reminder-frontend
+git clone https://github.com/faasii/remindly-frontend
 
-cd event-reminder-frontend
+cd remindly-frontend
 
 mv .env-example .env
 ```
